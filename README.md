@@ -1,5 +1,5 @@
-# Student Bot
-<a href="https://t.me/i_am_onion_bot">Bot Link<a>
+# Pro Bot
+<a href="https://t.me/i_am_phreak_bot">Bot Link<a>
 <ul>
 <h3>
 Built this Bot with great features to help students showcase their creativity:
