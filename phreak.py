@@ -23,7 +23,7 @@ save_path="NULL"
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.send_message(message.chat.id, "Hello, I am Student Bot. How may I help you today? 🤖")
+    bot.send_message(message.chat.id, "Hello, I am Pro Bot. How may I help you today? 🤖")
 
 
 @bot.message_handler(content_types=['document'])
